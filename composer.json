@@ -1,6 +1,6 @@
 {
     "name": "weissheiten/ninjasvspirates",
-    "description": "Setup for settling one of the worlds oldest grudges: Ninjas VS Pirates (In all honesty it's just rolling some dice and packaging that into a little theme) do demonstrate interfaces and feature branches",
+    "description": "Setup for settling one of the worlds oldest grudges: Ninjas VS Pirates (In all honesty it's just rolling some dice and packaging that into a little theme) to demonstrate interfaces and feature branches",
     "type": "library",
     "license": "MIT",
     "authors": [
